@@ -4,32 +4,20 @@ Hello
 
 ### new
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website describes everything about me
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Name
+My name is Zheng Qi
+## Hobby
+I like many interesting things. They can bring me happiness
+Dancing can make me happy. I have never given up dancing since I was a child, because it is the source of my happiness
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Try new things
 
-[Link](url) and ![Image](src)
-```
+I like to try new things. This gives me great curiosity and excitement
+### Challenge yourself
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/icecreambling/12345.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No matter what we do, we should learn from experience and make continuous progress
